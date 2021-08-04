@@ -9,6 +9,6 @@
 
 ---
 
-- [컴퓨터와의 대화]()
+- [컴퓨터와의 대화](https://github.com/hayoung-jeremy/TIL/blob/main/CS/computer_lang.md)
 
 <br>
