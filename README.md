@@ -10,5 +10,6 @@
 ---
 
 - [컴퓨터와의 대화](https://github.com/hayoung-jeremy/TIL/blob/main/CS/computer_lang.md)
+- [Process & Thread](https://github.com/hayoung-jeremy/TIL/blob/main/CS/process_thread.md)
 
 <br>
