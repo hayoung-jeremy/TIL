@@ -11,3 +11,9 @@
 - [Process & Thread](https://github.com/hayoung-jeremy/TIL/blob/main/CS/process_thread.md)
 
 <br>
+
+## FrontEnd
+
+### JS
+
+- [배열 메소드](https://github.com/hayoung-jeremy/TIL/blob/main/frontend/JS/array_method.md)
