@@ -42,10 +42,10 @@ JavaScript 가 해석형 언어에 속하고, C / C++ 는 컴파일형 언어에
 <br>
 <br>
 
-- references
+### references
 
-  [](https://namu.wiki/w/%EA%B8%B0%EA%B3%84%EC%96%B4)
+- [나무위키](https://namu.wiki/w/%EA%B8%B0%EA%B3%84%EC%96%B4)
 
-  [어셈블리어 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4)
+- [어셈블리어 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4)
 
-  [컴파일러(Compiler) 와 인터프리터(Interpreter) 의 개념과 차이점](https://jins-dev.tistory.com/entry/Compiler-%EC%99%80-Interpreter-%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+- [컴파일러(Compiler) 와 인터프리터(Interpreter) 의 개념과 차이점](https://jins-dev.tistory.com/entry/Compiler-%EC%99%80-Interpreter-%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90)

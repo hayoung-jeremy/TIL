@@ -72,3 +72,11 @@ ex) 웹 서버 — 대표적인 Multi Thread 응용 프로그램
 - 구현 및 테스트, 디버깅이 어렵다.
 - 너무 많은 Thread 사용은 오버헤드를 발생시킨다.
 - 자식 Thread 하나의 문제로인해 전체 Process 에 영향을 끼칠 수 있다.
+
+### references
+
+- [Process와 Thread 이야기](https://charlezz.medium.com/process%EC%99%80-thread-%EC%9D%B4%EC%95%BC%EA%B8%B0-5b96d0d43e37)
+
+- [[OS] 프로세스와 스레드의 차이 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html)
+
+- [[10분 테코톡] 🌷 코다의 Process vs Thread](https://www.youtube.com/watch?v=1grtWKqTn50&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=19&t=309s)
